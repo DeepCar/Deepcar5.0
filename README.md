@@ -8,4 +8,4 @@ All images have been taken from the front view and the front three-quarter direc
 All images clearly show the main vehicle sections, including the headlights, upper grill, lower grill, bumper, hood, etc. 
 
 DeepCar 5.0 has focused mainly on the 2017-2022 car models, some of which have been displayed just recently in various auto shows.
-![image](https://user-images.githubusercontent.com/96300226/146667728-19529c83-5f0a-4234-a6c1-afdad92df07c.png)
+
