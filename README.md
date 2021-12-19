@@ -36,7 +36,7 @@ DeepCar 5.0 has focused mainly on the 2017-2022 car models, some of which have b
 ![lable-github](https://user-images.githubusercontent.com/96300226/146667886-1411b05e-81b4-4b78-9550-1919ae9a13a4.jpg)
 
 # Design a Specific Filters for Each Part
-* identity watermarks
+* Identity Watermarks
 * Gabor Filter Bank
 * Style Transfer
 * DexiNed: Dense EXtreme Inception Network for Edge Detection
