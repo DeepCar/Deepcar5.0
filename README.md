@@ -1,4 +1,10 @@
 # Deepcar-5.0
+I) Introducing a New Dataset
+
+II) Handcraft Annotation
+
+III) Fine-Grained Visual Classification via MAS and Ensembling CNN
+
 Introducing a new dataset - called DeepCar 5.0
 
 Including more than 20K images in 480 different models belonging to the top 50 world automakers.
@@ -15,4 +21,12 @@ DeepCar 5.0 has focused mainly on the 2017-2022 car models, some of which have b
 ![lable-github](https://user-images.githubusercontent.com/96300226/146667886-1411b05e-81b4-4b78-9550-1919ae9a13a4.jpg)
 
 
+# Mannual Annotation
+
+
+# Design a specific filters for each part
+
+
+
 # VMMR using multi-agent systems and ensembling CNN
+Introducing a new method for fined-graind classification by using multi-agent systems and enseembling CNN
