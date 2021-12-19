@@ -1,7 +1,7 @@
 # Deepcar-5.0
 Introducing a new dataset - called DeepCar 5.0
 
-Collecting more than 20K images of cars in 480 different classes belonging to the top 50 world automakers.
+Including more than 20K images in 480 different models belonging to the top 50 world automakers.
 
 All images have been taken from the front view and the front three-quarter directions.
 
@@ -13,3 +13,6 @@ DeepCar 5.0 has focused mainly on the 2017-2022 car models, some of which have b
 
 
 ![lable-github](https://user-images.githubusercontent.com/96300226/146667886-1411b05e-81b4-4b78-9550-1919ae9a13a4.jpg)
+
+
+# VMMR using multi-agent systems and ensembling CNN
