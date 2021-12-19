@@ -35,9 +35,13 @@ DeepCar 5.0 has focused mainly on the 2017-2022 car models, some of which have b
 # Mannual Annotation
 ![lable-github](https://user-images.githubusercontent.com/96300226/146667886-1411b05e-81b4-4b78-9550-1919ae9a13a4.jpg)
 
+
+
 # Attention Mechanism
 Employing the Attention Module to Determine the ROI
-![Similarities](https://user-images.githubusercontent.com/96300226/146679676-de9f8da7-d352-47a9-9880-62cb49292530.jpg)
+![Similarities](https://user-images.githubusercontent.com/96300226/146680188-3d60e449-fdf5-4168-a487-b5e5e24a88cb.jpg)
+
+
 
 # Design a Specific Filters for Each Part
 * Identity Watermarks
