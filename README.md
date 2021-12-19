@@ -1,9 +1,7 @@
 # Deepcar-5.0
 
 
-
-
-![charger-main](https://user-images.githubusercontent.com/96300226/146678959-ed435401-0a15-4118-9e29-931c11666fe7.gif)
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/96300226/146679203-916341b0-5313-4f2a-a305-0e82a76da73b.gif)
 
 ![volvo-github](https://user-images.githubusercontent.com/96300226/146678972-4006ed36-0b4c-4407-8e39-5db591be54e8.gif)
 
@@ -11,8 +9,6 @@
 
 
 
-
-Download original quality
 
 I) Introducing a New Dataset
 
@@ -33,15 +29,18 @@ DeepCar 5.0 has focused mainly on the 2017-2022 car models, some of which have b
 
 
 
-![lable-github](https://user-images.githubusercontent.com/96300226/146667886-1411b05e-81b4-4b78-9550-1919ae9a13a4.jpg)
+
 
 
 # Mannual Annotation
-
+![lable-github](https://user-images.githubusercontent.com/96300226/146667886-1411b05e-81b4-4b78-9550-1919ae9a13a4.jpg)
 
 # Design a specific filters for each part
+*
+* Gabor Filter Bank
+* Style Transfer
+* DexiNed: Dense EXtreme Inception Network for Edge Detection
 
 
-
-# VMMR using multi-agent systems and ensembling CNN
-Introducing a new method for fined-graind classification by using multi-agent systems and enseembling CNN
+# Vehicle Make and Model Recognition
+Introducing a New Method for Fine-grained Classification by Using Multi-Agent Systems and Enseembling CNN
