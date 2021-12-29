@@ -61,3 +61,6 @@ Employing the Attention Module to Determine the ROI
 
 # Vehicle Make and Model Recognition
 Introducing a New Method for Fine-grained Classification by Using Multi-Agent Systems and Enseembling CNN
+* Using Blackboard System for Decision & Voting
+* VGG19
+* ...
