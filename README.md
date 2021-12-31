@@ -28,6 +28,14 @@ All images clearly show the main vehicle sections, including the headlights, upp
 DeepCar 5.0 has focused mainly on the 2017-2022 car models, some of which have been displayed just recently in various auto shows.
 
 
+*[Download Full Dataset](https://www.kaggle.com/c/vehicle)
+
+*[Download The Attributes](https://www.kaggle.com/c/vehicle)
+
+*[Download Pascal/VOC Annotations](https://www.kaggle.com/c/vehicle)
+
+*[Download Yolo Annotations](https://www.kaggle.com/c/vehicle)
+
 
 
 
