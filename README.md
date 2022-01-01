@@ -30,7 +30,7 @@ DeepCar 5.0 has focused mainly on the 2017-2022 car models, some of which have b
 
 *[Download Full Dataset](https://drive.google.com/file/d/1Hx1jz6HI7oolQbv7F5Kd68My0SW9jrny/view?usp=sharing)
 
-*[Download The Attributes](https://www.kaggle.com/c/vehicle)
+*[Download The Attributes](https://docs.google.com/spreadsheets/d/1Uv2_WADMuWnmJO777CENOycF7etM64Gx/edit?usp=sharing&ouid=113921680243179511172&rtpof=true&sd=true)
 
 *[Download Pascal/VOC Annotations](https://www.kaggle.com/c/vehicle)
 
