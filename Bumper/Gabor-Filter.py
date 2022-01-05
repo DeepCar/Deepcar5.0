@@ -42,9 +42,8 @@ def load_images_from_folder(input):
     for filename in os.listdir(input):
         img = cv2.imread(os.path.join(input, filename))
         filters = build_filters()
-        res1 = process(img, filters)
-        res2 = process_threaded(img, filters)
-        cv2.imwrite(os.path.join(output_data , filename), res2)
+        res = process_threaded(img, filters)
+        cv2.imwrite(os.path.join(output_data , filename), res)
         #cv2.imwrite(os.path.join(output_data, img))
 
 if __name__ == '__main__':
