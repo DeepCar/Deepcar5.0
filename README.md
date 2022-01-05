@@ -34,7 +34,7 @@ DeepCar 5.0 has focused mainly on the 2017-2022 car models, some of which have b
 
 *[Download Pascal/VOC Annotations](https://drive.google.com/file/d/18bFrR9dC_38wEFUF9PfT__CJOwegNo1e/view?usp=sharing)
 
-*[Download Yolo Annotations](https://www.kaggle.com/c/vehicle)
+*[Download Yolo Annotations](https://drive.google.com/file/d/1PVn49TV88E6j-GCkZayHpdyx27SkUExa/view?usp=sharing)
 
 
 
