@@ -78,3 +78,8 @@ Introducing a New Method for Fine-grained Classification by Using Multi-Agent Sy
 
 
 # Acknowledgment
+Special Thanks to:
+
+[DexiNed Official Page](https://github.com/xavysp/DexiNed) For Using Their Code In Our "Grill Agent"
+[CompVis Heidelberg Research Group](https://github.com/CompVis/adaptive-style-transfer) For Using Their Code In Our "Scoop & Air Intake Agent"
+
