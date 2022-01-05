@@ -52,6 +52,8 @@ DeepCar 5.0 has focused mainly on the 2017-2022 car models, some of which have b
 
 ![lable (1)](https://user-images.githubusercontent.com/96300226/148178487-84e539ec-2213-4990-92d8-bffe3465ca40.jpg)
 
+# Attributes
+
 
 
 # Attention Mechanism
