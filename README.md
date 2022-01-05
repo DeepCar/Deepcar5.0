@@ -53,6 +53,15 @@ DeepCar 5.0 has focused mainly on the 2017-2022 car models, some of which have b
 ![lable (1)](https://user-images.githubusercontent.com/96300226/148178487-84e539ec-2213-4990-92d8-bffe3465ca40.jpg)
 
 # Attributes
+Containing Color, Engine Size, Cylinder Arrangement, Horsepower, Length,	Width,	Height, etc.
+
+Support 34 Body Styles:
+* Sedan, SUV, Coupe Sports, Spider, Sport Sedan, Compact SUV, Roadster, Hatchback, Turismo, GT, CUV, TT, Minivan, Liftback, Crossover, etc.
+
+
+
+
+![image](https://user-images.githubusercontent.com/96300226/148179069-4c66b79a-12c8-4227-84af-79983924afb5.png)
 
 
 
