@@ -72,3 +72,9 @@ Introducing a New Method for Fine-grained Classification by Using Multi-Agent Sy
 * Using Blackboard System for Decision & Voting
 * VGG19
 * ...
+
+
+
+
+
+# Acknowledgment
