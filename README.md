@@ -9,11 +9,11 @@
 
 
 
-I) Introducing a New Dataset
+****I) Introducing a New Dataset****
 
-II) Handcraft Annotation
+**II) Handcraft Annotation**
 
-III) Fine-Grained Visual Classification via MAS and Ensembling CNN
+**III) Fine-Grained Visual Classification via MAS and Ensembling CNN**
 
 Introducing a new dataset - called DeepCar 5.0
 
