@@ -28,7 +28,7 @@ All images clearly show the main vehicle sections, including the headlights, upp
 DeepCar 5.0 has focused mainly on the 2017-2022 car models, some of which have been displayed just recently in various auto shows.
 
 
-*[Download Full Dataset](https://drive.google.com/file/d/1Hx1jz6HI7oolQbv7F5Kd68My0SW9jrny/view?usp=sharing)
+*[Download Full Dataset (Train set-Test set)](https://drive.google.com/file/d/1Hx1jz6HI7oolQbv7F5Kd68My0SW9jrny/view?usp=sharing)
 
 *[Download The Attributes](https://docs.google.com/spreadsheets/d/1Uv2_WADMuWnmJO777CENOycF7etM64Gx/edit?usp=sharing&ouid=113921680243179511172&rtpof=true&sd=true)
 
