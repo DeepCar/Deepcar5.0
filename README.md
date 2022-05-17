@@ -3,8 +3,6 @@
 
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/96300226/146679203-916341b0-5313-4f2a-a305-0e82a76da73b.gif)
 
-![volvo-github](https://user-images.githubusercontent.com/96300226/146678972-4006ed36-0b4c-4407-8e39-5db591be54e8.gif)
-
 
 ![third (1)](https://user-images.githubusercontent.com/96300226/147329610-bce852ff-3dbf-46ff-a1ba-bfd4876bb5d6.gif)
 
