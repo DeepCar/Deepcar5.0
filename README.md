@@ -26,7 +26,7 @@ All images clearly show the main vehicle sections, including the headlights, upp
 DeepCar 5.0 has focused mainly on the 2017-2022 car models, some of which have been displayed just recently in various auto shows.
 
 # Dataset Agreement
-* The DeepCar 5.0 dataset is available for **non-commercial research purposes only!**
+* The DeepCar 5.0 dataset is available for **non-commercial research and educational purposes only!**
 
 *[Download Full Dataset (Train set-Test set)](https://drive.google.com/file/d/1Hx1jz6HI7oolQbv7F5Kd68My0SW9jrny/view?usp=sharing)
 
