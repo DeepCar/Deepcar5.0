@@ -28,13 +28,11 @@ DeepCar 5.0 has focused mainly on the 2017-2022 car models, some of which have b
 # Dataset Agreement
 * The DeepCar 5.0 dataset is available for **non-commercial research and educational purposes only!**
 
-*[Download Dataset (Train set - 13GB)](https://drive.google.com/file/d/1Hx1jz6HI7oolQbv7F5Kd68My0SW9jrny/view?usp=sharing)
 
-*[Download Dataset (Test set - 12.8GB)](https://drive.google.com/file/d/1C5kM2DVIPdNCaX1Du_OJhiQaIpEAHeO3/view?usp=sharing)
 
 *Download Dataset [**(Train set - 13GB)**](https://drive.google.com/file/d/1Hx1jz6HI7oolQbv7F5Kd68My0SW9jrny/view?usp=sharing) 
 
- .                 .[**(Test set - Part1 - 12.8GB)**](https://drive.google.com/file/d/1C5kM2DVIPdNCaX1Du_OJhiQaIpEAHeO3/view?usp=sharing)
+                  [**(Test set - Part1 - 12.8GB)**](https://drive.google.com/file/d/1C5kM2DVIPdNCaX1Du_OJhiQaIpEAHeO3/view?usp=sharing)
 
 *Download [**The Attributes**](https://docs.google.com/spreadsheets/d/1Uv2_WADMuWnmJO777CENOycF7etM64Gx/edit?usp=sharing&ouid=113921680243179511172&rtpof=true&sd=true)
 
