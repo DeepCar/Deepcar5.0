@@ -30,7 +30,7 @@ DeepCar 5.0 has focused mainly on the 2017-2022 car models, some of which have b
 
 
 
-*Download Dataset [**(Train set - 13GB)**](https://drive.google.com/file/d/1Hx1jz6HI7oolQbv7F5Kd68My0SW9jrny/view?usp=sharing) **/** [**(Test set - Part 1 - 12.8GB)**](https://drive.google.com/file/d/1C5kM2DVIPdNCaX1Du_OJhiQaIpEAHeO3/view?usp=sharing) **/** [**(Test set - Part 2 - 12GB)**](https://drive.google.com/file/d/1otwKQJESgbA-77ZdamrFXAKGeeuCBQPy/view?usp=sharing) **/** [(**Traffic Enforcement Camera**)][]
+*Download Dataset [**(Train set - 13GB)**](https://drive.google.com/file/d/1Hx1jz6HI7oolQbv7F5Kd68My0SW9jrny/view?usp=sharing) **/** [**(Test set - Part 1 - 12.8GB)**](https://drive.google.com/file/d/1C5kM2DVIPdNCaX1Du_OJhiQaIpEAHeO3/view?usp=sharing) **/** [**(Test set - Part 2 - 12GB)**](https://drive.google.com/file/d/1otwKQJESgbA-77ZdamrFXAKGeeuCBQPy/view?usp=sharing) **/** [(**Traffic Camera**)][]
 
 
 *Download [**The Attributes**](https://docs.google.com/spreadsheets/d/1Uv2_WADMuWnmJO777CENOycF7etM64Gx/edit?usp=sharing&ouid=113921680243179511172&rtpof=true&sd=true)
@@ -41,7 +41,7 @@ DeepCar 5.0 has focused mainly on the 2017-2022 car models, some of which have b
 
 
 
-[(**Traffic Enforcement Camera**)]: https://www.youtube.com/watch?v=1EiC9bvVGnk/
+[(**Traffic Camera**)]: https://www.youtube.com/watch?v=1EiC9bvVGnk/
 
 
 # Mannual Annotation
