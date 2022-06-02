@@ -17,7 +17,7 @@
 
 Introducing a new dataset - called DeepCar 5.0
 
-Including more than 20K images in 480 different models belonging to the top 50 world automakers.
+Including more than 40K images in 480 different models belonging to the top 50 world automakers.
 
 All images have been taken from the front view and the front three-quarter directions.
 
